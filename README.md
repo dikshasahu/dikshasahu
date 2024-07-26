@@ -1,7 +1,7 @@
 # Hi, I'm Diksha
 
 
-I have more than 7 years of experience in Software Engineering & Data Analysis. With a recent MS Data Science graduate from Liverpool John Moores University. I am extremely excited about working on Data Problems. When I'm not working, I like to spend my hours actively (Badminton/Hiking/Weight Training) & tinkering on data science projects. 
+I have more than 7 years of experience in Software Engineering & Data Analysis. With a recent MS Data Science graduate from Liverpool John Moores University. I am extremely excited about working on Data Problems. When I'm not working, I like to spend my hours actively (Badminton/Weight Training) & tinkering on data science projects. 
 
 I have skills in :
 
